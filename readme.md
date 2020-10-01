@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-[JavaScript30 Challenge](https://github.com/wesbos/JavaScript30)
+[30 Day Vanilla JS Challenge ](https://github.com/wesbos/JavaScript30)
 
 ## Checklist
 
@@ -36,3 +36,4 @@
 28. [ ] [Video Speed Controller UI]()
 29. [ ] [Countdown Clock]()
 30. [ ] [Whack a Mole Game]()
+
