@@ -6,7 +6,7 @@
 
 ## Checklist
 
-1. [x] [JavaScript Drum Kit]()
+1. [x] [JavaScript Drum Kit](https://github.com/Ollie2304/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 2. [ ] [CSS + JS Clock]()
 3. [ ] [Playing with CSS Variables and JS]()
 4. [ ] [Array Cardio Day 1]()
